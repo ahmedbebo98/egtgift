@@ -153,11 +153,10 @@
         <img alt class="bee-center bee-fixedwidth" src="https://g.top4top.io/p_2371lbmpn1.png" style="max-width:200px;"></a>
       </div>
       <div class="bee-block bee-block-2 bee-heading">
-       <h1 style="color:#393d47;direction:ltr;font-family:Arial, Helvetica Neue, Helvetica, sans-serif;font-size:18px;font-weight:700;letter-spacing:normal;line-height:150%;text-align:center;margin-top:0;margin-bottom:0;">
+       <h1 style="color:#393d47;direction:ltr;font-family:Arial, Helvetica Neue, Helvetica, sans-serif;font-size:19px;font-weight:700;letter-spacing:normal;line-height:150%;text-align:center;margin-top:0;margin-bottom:0;">
         <span class="tinyMce-placeholder" style="color: #000000 ;">
          إحصل علي هديتك بمناسبة عيد الأضحي المبارك
          <br>
-		          <br>
          برجاء تسجيل رقم الهاتف و تاكيد الكود الذي سوف يصل اليك
          <br>
 		          <br>
