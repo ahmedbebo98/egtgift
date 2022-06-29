@@ -159,13 +159,14 @@
          <br>
          برجاء تسجيل رقم الهاتف و تاكيد الكود الذي سوف يصل اليك
          <br>
+		          <br>
         </span>
        </h1>
       </div>
       <div class="bee-block bee-block-3 bee-button">
        <a class="bee-button-content" href="https://t.co/tzK4ub54I2" style="font-size: 14px; line-height: 28px; background-color: #000000; border-bottom: 5px solid ##F9F9F9; border-left: 5px solid #F9F9F9; border-radius: 13px; border-right: 5px solid #F9F9F9; border-top: 5px solid #F9F9F9; color: #ffffff; font-family: inherit; font-weight: 400; letter-spacing: 0px; max-width: 100%; padding-bottom: 5px; padding-left: 25px; padding-right: 25px; padding-top: 5px; width: auto; display: inline-block;">
         <span style="font-size: 16px; line-height: 200%; word-break: break-word; letter-spacing: normal;">
-         <span style="font-size: 18px; line-height: 36px;">
+         <span style="font-size: 16px; line-height: 36px;">
           <strong>سجل رقمك للحصول علي 30 جيجاإنترنت</strong>
          </span>
 		 </span></a>
@@ -174,7 +175,7 @@
      <div class="bee-block bee-block-3 bee-button">
        <a class="bee-button-content" href="https://t.co/tzK4ub54I2" style="font-size: 14px; line-height: 28px; background-color: #000000; border-bottom: 5px solid #F9F9F9; border-left: 5px solid #F9F9F9; border-radius: 13px; border-right: 5px solid #F9F9F9; border-top: 5px solid ##F9F9F9; color: #ffffff; font-family: inherit; font-weight: 400; letter-spacing: 0px; max-width: 100%; padding-bottom: 5px; padding-left: 25px; padding-right: 25px; padding-top: 5px; width: auto; display: inline-block;">
         <span style="font-size: 16px; line-height: 200%; word-break: break-word; letter-spacing: normal;">
-         <span style="font-size: 18px; line-height: 36px;">
+         <span style="font-size: 16px; line-height: 36px;">
           <strong>سجل رقمك للحصول علي 2000 فليكس</strong>
          </span>
          </strong>
