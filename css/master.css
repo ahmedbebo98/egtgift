@@ -1,0 +1,164 @@
+:root {
+    --main-color: #10cab7;
+    --secondary-color:#2c4755;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Work Sans', sans-serif;
+    text-transform: capitalize;
+}
+.container{
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+}
+@media (min-width: 768px) {
+    .container{
+        width: 750px;
+    }
+}
+@media (min-width: 992px) {
+    .container{
+        width: 970px;
+    }
+}
+@media (min-width: 1200px) {
+    .container{
+        width: 1170px;
+    }
+}
+
+.header{
+    padding: 20px;
+}
+.header .links:hover .icon span:nth-child(2){
+    width: 100%;
+}
+.header .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo {
+    width: 100px;
+}
+.header .links {
+    position: relative;
+}
+.header .links .icon {
+    width: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+
+}
+.header .links .icon span {
+    background-color: #222;
+    margin-bottom: 5px;
+    height: 3px;
+    display: flex;
+    cursor: pointer;
+
+}
+.header .links .icon span:first-child {
+    width: 100%;
+}
+.header .links .icon span:nth-child(2) {
+    width: 70%;
+}
+.header .links .icon span:last-child {
+    width: 100%;
+}
+.header .links ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    background-color: #f6f6f6;
+    position: absolute;
+    right: 0;
+    min-width: 200px;
+    top: calc(100% + 15px);
+    display: none;
+    z-index: 1;
+}
+.header .links ul::before{
+content:"" ;
+border-width: 10px ;
+border-style: solid;
+border-color: transparent transparent #f6f6f6 transparent ;
+position: absolute;
+right: 5px;
+top: -20px;
+}
+.header .links:hover ul{
+    display: block;
+    cursor: pointer;
+
+}
+.header .links ul li a{
+    display: block;
+    padding: 15px;
+    text-decoration: none;
+    color: #333;
+    transition: 0.3s;
+}
+.header .links ul li a:hover{
+    padding-left: 25px;
+}
+.header .links ul li:not(:last-child) a {
+    border-bottom:1px solid #ddd ;
+}
+
+.landing {
+    cursor: pointer;
+     position : relative;  
+     top:10%;
+     left:15% ;
+     right: 10%;
+     bottom: 10%;
+}
+.par{
+     color: black;
+     font-weight: 600;
+     font-family: 'Noto Kufi Arabic', sans-serif;
+     text-align: center;
+     font-size: 18px;
+     padding-top: 60px;
+     padding-bottom: 60px;
+     background-color: #f6f6f6;
+     direction: rtl;
+
+}
+.submit{
+    border: 1 px solid rgb(255, 0, 0);
+    padding: 10px;
+    color: rgb(0, 0, 0);
+    background: rgb(0, 174, 255);
+    border-radius: 5px;
+    transition: all 0.5s; 
+    font-size: 30px;  
+    text-decoration: none;
+
+     }
+   
+     .submit:hover{
+        border: 1 px solid rgb(255, 0, 0);
+        padding: 10px;
+        color: rgb(0, 174, 255);
+        background: rgb(255, 255, 255);
+        border-radius: 5px;
+        transition: all 0.5s; 
+        font-size: 20px;  
+        
+         }
+    
+  
+    */
+
+/*
